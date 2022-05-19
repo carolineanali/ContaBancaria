@@ -19,4 +19,11 @@ Importante que no momento de realizar o saldo, saque ou depósito, seja possíve
 - Informar na entrega os nomes dos participantes.
 
 
+## Autores
+* [Ana Caroline](https://github.com/carolineanali)
+* [Andréa Monteiro](https://github.com/andreasmonteiro)
+* [Gabryella Waleska](https://github.com/gabryellabarbosa)
+* [Nádya Leôncio](https://github.com/nadyabpm)
+* [Rayssa Alcântara](https://github.com/rayssawho)
+
 <img align="right" alt="grogu" height="250" style="border-radius:50px;" src="https://media1.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b7611cc62fea9893ddd2ff7d0d6eb08ce8eadb2a89f83&rid=giphy.gif&ct=s">
