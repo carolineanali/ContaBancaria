@@ -5,16 +5,16 @@ import java.util.Scanner;
 public class Principal {
 
     public static void main(String[] args) {
-        int esc;
+        int escolha;
         Scanner scanner = new Scanner(System.in);
 
         CadastroDoCliente informacoes = new CadastroDoCliente();
 
         do {
             informacoes.optar();
-            esc = scanner.nextInt();
+            escolha = scanner.nextInt();
 
-            switch (esc) {
+            switch (escolha) {
                 case 1:
                     informacoes.cadastrar();
                     break;
@@ -28,6 +28,6 @@ public class Principal {
                     informacoes.depositar();
                     break;
             }
-        } while (esc != 0);
+        } while (escolha != 0);
     }
 }
